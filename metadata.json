@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
-  "website": "<WEBSITE>",
-  "description": "<DESCRIPTION>",
-  "logo": "<https://www.example.com/logo.png>",
-  "twitter": "<YOUR_TWITTER>"
+"name": "Node's name",
+"website": "link on it",
+"description": "I operate",
+"logo": "logo.png",
+"twitter": "https://x.com/deronin_"
 }
